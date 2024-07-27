@@ -16,4 +16,12 @@
 
 .test_box h1 {
     color: blue;
+    margin-bottom: 2rem;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    color: red;
 }
